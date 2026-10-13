@@ -49,22 +49,25 @@ The expected directory structure is:
 ports/
 ├── Lonely Wolf Treat.sh
 └── lonelywolf/
-    ├── lonelywolf.sh
-    ├── lonelywolf.ini
+    ├── screenshot.png
+    ├── README.md
     ├── mkxp.json
+    ├── lonelywolf.ini
+    ├── gameinfo.xml
+    ├── port.json
     ├── mkxp-z.aarch64
+    ├── stdlib.tar.gz
     ├── win32stub.rb
+    ├── stdlib/
+    ├── libs.aarch64/
+    ├── licenses/
+    ├── patches/
+    ├── Audio/
+    ├── System/
     ├── Game.exe
     ├── Game.ini
     ├── Game.rgss3a
-    ├── Audio/
-    ├── Fonts/
-    ├── System/
-    ├── Graphics/
-    ├── licenses/
-    ├── patches/
-    ├── libs.aarch64/
-    └── stdlib/
+    └── README.txt
 ```
 
 If your copy uses an unpacked `Data/` directory instead of `Game.rgss3a`, place `Data/` in the same `lonelywolf/` directory.
