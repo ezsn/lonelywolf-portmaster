@@ -1,4 +1,4 @@
-## Notes
+## LONELY WOLF TREAT: THE COMPLETE SERIES
 
 Thanks to [NomnomNami](https://nomnomnami.com/) for creating [LONELY WOLF TREAT](https://nomnomnami.itch.io/treat-complete), a heartwarming story about a wolf who moves into a town full of rabbits and an unexpected friendship that begins with a delicious curry.
 
