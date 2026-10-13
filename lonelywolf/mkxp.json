@@ -1,0 +1,19 @@
+{
+    "rgssVersion": 3,
+    "fullscreen": true,
+    "winResizable": false,
+    "fixedAspectRatio": true,
+    "smoothScaling": 0,
+    "fixedFramerate": 60,
+    "frameSkip": false,
+    "syncToRefreshrate": true,
+    "printFPS": false,
+    "fontSub": [
+        "UmePlus Gothic>VL Gothic"
+    ],
+    "preloadScript": ["win32stub.rb"],
+    "patches": ["patches"],
+    "pathCache": true,
+    "allowSymlinks": false
+
+}

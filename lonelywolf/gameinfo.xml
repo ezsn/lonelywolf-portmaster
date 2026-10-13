@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./Lonely Wolf Treat.sh</path>
+    <name>Lonely Wolf Treat</name>
+    <desc>LONELY WOLF TREAT is the heartwarming story of a wolf who moves into a town full of rabbits that are all very afraid of her, so she can't make any friends... until one little bunny bursts into her home, and decides to make her some delicious curry!</desc>
+    <developer>NomnomNami</developer>
+    <publisher>NomnomNami</publisher>
+    <genre>Role-playing game (RPG)</genre>
+    <image>./lonelywolf/screenshot.png</image>
+  </game>
+</gameList>
+```

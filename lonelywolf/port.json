@@ -1,0 +1,39 @@
+{
+    "version": 1,
+    "name": "lonelywolf.zip",
+    "items": [
+        "Lonely Wolf Treat.sh",
+        "lonelywolf"
+    ],
+    "items_opt": null,
+    "attr": {
+        "title": "Lonely Wolf Treat",
+        "porter": [
+            "nicky"
+        ],
+        "desc": "LONELY WOLF TREAT is the heartwarming story of a wolf who moves into a town full of rabbits that are all very afraid of her, so she can't make any friends... until one little bunny bursts into her home, and decides to make her some delicious curry!.",
+        "desc_md": null,
+        "inst": "Copy Audio/, Graphics/, Fonts/, Game.ini and Game.rgss3a from your own installation directly into the lonelywolf/ folder, alongside the engine. The Steam release ships a heavily reduced build; apply the publisher's free official patch to it first, or the port will run that reduced build.",
+        "inst_md": null,
+        "genres": [
+            "rpg"
+        ],
+        "image": {},
+        "rtr": false,
+        "exp": false,
+        "runtime": [],
+        "store": [
+            {
+                "name": "itch",
+                "gameurl": "https://nomnomnami.itch.io/treat-complete",
+                "developerurl": "https://nomnomnami.com/"
+            }
+        ],
+        "availability": "free",
+        "reqs": [],
+        "arch": [
+            "aarch64"
+        ],
+        "min_glibc": ""
+    }
+}
